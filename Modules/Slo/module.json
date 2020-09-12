@@ -1,0 +1,13 @@
+{
+    "name": "Slo",
+    "alias": "slo",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Slo\\Providers\\SloServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
